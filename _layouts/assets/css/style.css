@@ -1,0 +1,14 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+/* Custom styles for the navigation */
+nav ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+nav ul li {
+  display: inline;
+  margin-right: 10px;
+}

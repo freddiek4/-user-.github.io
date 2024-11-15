@@ -3,5 +3,5 @@ plugins:
   - jekyll-remote-theme  # Ensure this plugin is enabled
 
 title: "Frederick Kiessling"
-description: ""
+description: "University of California, Santa Barbara: Mathematics & Statistics and Data Science (expected to graduate 2026"
 show_downloads: true  # This should show download links in your layout

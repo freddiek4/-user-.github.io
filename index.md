@@ -16,4 +16,4 @@ In 2023-2024, I worked for Siemens Technology under their Building X AI project 
 - [Project 2](#)
 
 ## Contact
-Reach out to me via email: freddiekiessling@gmail.com or [LinkedIn](https://www.linkedin.com/in/frederick-kiessling-2b86ab224/).
+Reach out to me via email: [freddiekiessling@gmail.com](freddiekiessling@gmail.com) or [LinkedIn](https://www.linkedin.com/in/frederick-kiessling-2b86ab224/).

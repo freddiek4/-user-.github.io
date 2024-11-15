@@ -3,5 +3,5 @@ plugins:
   - jekyll-remote-theme  # Ensure this plugin is enabled
 
 title: "Frederick Kiessling"
-description: "A short description of my site’s purpose"
+description: ""
 show_downloads: true  # This should show download links in your layout

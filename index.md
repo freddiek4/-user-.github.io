@@ -10,7 +10,7 @@ I am an undergraduate student at the University of California, Santa Barbara stu
 
 2023-2024: I worked for Siemens Technology under their Building X AI Division & Siemens Infrastructure RSS, under Product Head [Donal O'Farrell](https://www.linkedin.com/in/donal-ofarrell/), Senior Data Engineer [Qinpeng Wang Ph.D](https://www.linkedin.com/in/qinpeng-wang-ph-d-a7a60850/), and was mentored by Senior Engineering Manager [Travis Wayne](https://www.linkedin.com/in/traviswayne/).
 
-2020: I worked for eDataConsulting as a Software Engineer Intern under [Stephan Lochner]([https://www.linkedin.com/in/donal-ofarrell/](https://www.linkedin.com/in/stephan-lochner/)), receiving mentorship from [Dylan Herbig]([https://www.linkedin.com/in/dylan-herbig/)) and [Benjamin Tschiggfrey]([https://www.linkedin.com/in/benjamin-tschiggfrey-a4b861158/))
+2020: I worked for eDataConsulting as a Software Engineer Intern under [Stephan Lochner](https://www.linkedin.com/in/stephan-lochner/), receiving mentorship from [Dylan Herbig](https://www.linkedin.com/in/dylan-herbig/) and [Benjamin Tschiggfrey](https://www.linkedin.com/in/benjamin-tschiggfrey-a4b861158/)
 
 
 

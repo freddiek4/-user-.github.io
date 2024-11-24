@@ -20,3 +20,5 @@ I am an undergraduate student at the University of California, Santa Barbara stu
 
 ## Contact
 Reach out to me via email: [freddiekiessling@gmail.com](freddiekiessling@gmail.com) or [LinkedIn](https://www.linkedin.com/in/frederick-kiessling-2b86ab224/).
+
+My reddit account: [Reddit](https://www.reddit.com/user/Frederick_kiessling/) - documentation of my C++ knowledge.

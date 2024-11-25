@@ -16,7 +16,7 @@ I am an undergraduate student at the University of California, Santa Barbara stu
 
 ## Courses
 - [Graduate Course: CS 292: Graph ML & Representation Learning](https://github.com/freddiek4/F2024_Statisitcal_Compute_UCSB/tree/main/CS_292_Graph_Representation_Learning)
-- [Project 2](#)
+- [CS 190N: Machine Learning for Networking 2](cs190n.html)
 
 ## Contact
 Reach out to me via email: [freddiekiessling@gmail.com](freddiekiessling@gmail.com) or [LinkedIn](https://www.linkedin.com/in/frederick-kiessling-2b86ab224/).

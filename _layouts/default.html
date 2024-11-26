@@ -65,11 +65,26 @@
   </div>
   <script src="{{ '/assets/js/scale.fix.js' | relative_url }}"></script>
   <script>
+    const translations = {
+      'Home': ['Home', 'Startseite'],
+      'Projects': ['Projects', 'Projekte'],
+      'Contact': ['Contact', 'Kontakt'],
+      'Switch to German': ['Switch to German', 'Switch to English']
+    };
+
+    let currentLang = 'en';  // Initial language
+
     document.getElementById('changeLanguage').addEventListener('click', function() {
-      document.body.innerHTML = document.body.innerHTML.replace('Home', 'Startseite');
-      document.body.innerHTML = document.body.innerHTML.replace('Projects', 'Projekte');
-      document.body.innerHTML = document.body.innerHTML.replace('Contact', 'Kontakt');
-      // Add more translations as needed
+      currentLang = (currentLang === 'en' ? 'de' : 'en');
+      Object.keys(translations).forEach((key) => {
+        let targets = document.querySelectorAll('nav a, button, h1 a, footer p');  // Targets specific elements only
+        targets.forEach((element) => {
+          if (element.textContent === translations[key][currentLang === 'en' ? 1 : 0]) {
+            element.textContent = translations[key][currentLang === 'en' ? 0 : 1];
+          }
+        });
+      });
+      this.textContent = translations['Switch to German'][currentLang === 'en' ? 0 : 1];
     });
   </script>
 </body>

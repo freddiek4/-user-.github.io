@@ -24,4 +24,4 @@ Reach out to me via email: [freddiekiessling@gmail.com](freddiekiessling@gmail.c
 
 My reddit account: [Reddit](https://www.reddit.com/user/Frederick_kiessling/) - documentation of my C++ knowledge: I give weekly updates on problems I have solved using C++ and advice for fellow people working under Professor Ananad in his asynchronous programming bootcamp.
 
-What I have been up to the last 5+ years
+[What I have been up to the last 5+ years] (https://github.com/freddiek4/-user-.github.io/blob/main/story.md) 

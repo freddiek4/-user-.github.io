@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Last 5 years"
+---
+
 I attended Elizabeth Von Thadden Gymnasium, a faith based school focusing on science and ethics, in Heidelberg, Germany.
 
 In 2016, I moved to Palo Alto, California attending J.L. Stanford Middle School. I learned english and quickly became interested in

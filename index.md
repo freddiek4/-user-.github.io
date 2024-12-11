@@ -13,13 +13,15 @@ I am an undergraduate student at the University of California, Santa Barbara stu
 
 2020: I worked for eDataConsulting as a Software Engineer Intern under [Stephan Lochner](https://www.linkedin.com/in/stephan-lochner/), receiving mentorship from [Dylan Herbig](https://www.linkedin.com/in/dylan-herbig/) and [Benjamin Tschiggfrey](https://www.linkedin.com/in/benjamin-tschiggfrey-a4b861158/).
 
-
-
-## Courses
+## Courses (most interesting)
 - [Graduate Course: CS 292: Graph ML & Representation Learning](https://github.com/freddiek4/F2024_Statisitcal_Compute_UCSB/tree/main/CS_292_Graph_Representation_Learning)
 - [CS 190N: Machine Learning for Networking](cs190n.md)
 
 ## Contact
 Reach out to me via email: [freddiekiessling@gmail.com](freddiekiessling@gmail.com) or [LinkedIn](https://www.linkedin.com/in/frederick-kiessling-2b86ab224/).
 
+## More on me
+
 My reddit account: [Reddit](https://www.reddit.com/user/Frederick_kiessling/) - documentation of my C++ knowledge: I give weekly updates on problems I have solved using C++ and advice for fellow people working under Professor Ananad in his asynchronous programming bootcamp.
+
+What I have been up to the last 5+ years

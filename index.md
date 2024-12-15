@@ -3,7 +3,8 @@ layout: default
 title: "Welcome to My GitHub Pages Site"
 description: "A customized site using the Minimal theme"
 ---
-<img src="https://github.com/user-attachments/assets/d77eac74-6981-4dec-ae9f-01adca8e3277" alt="pic" style="width: 450px; height: auto;">
+<img src="https://github.com/user-attachments/assets/d77eac74-6981-4dec-ae9f-01adca8e3277" alt="pic" style="width: 250px; height: auto;">
+
 
 
 ## About Me

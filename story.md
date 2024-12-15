@@ -9,6 +9,7 @@ I attended [Elizabeth Von Thadden](https://en.wikipedia.org/wiki/Elisabeth_von_T
 In 2016, I moved to Palo Alto, California attending J.L. Stanford Middle School. I learned English and quickly became interested in programming through my 6th grade Web Programming course. 
 
 Then, from 2018 to 2022, I studied at Palo Alto High School where I mainly focused on Mathematics, Physics, and Computer Science. I attended Foothill Community College through dual-enrollment and learned object-oriented programming. 
+
 ![Paly](https://github.com/user-attachments/assets/3445190c-b4df-4a4c-ad07-9da51ac5a399)
 
 From 2022 to 2024, I studied at the University of California, Davis studying Data Science and Mathematics. Additionally, I worked in the Cognitive Intelligence Laboratory under [Dr. Seth Frey](https://cs.ucdavis.edu/directory/seth-frey), as well as the Language Learning Laboratory under [Davis's Center for Mind and Brain](https://mindbrain.ucdavis.edu/about). 

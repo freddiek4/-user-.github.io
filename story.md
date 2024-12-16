@@ -18,7 +18,12 @@ In 2023, I spent the summmer at UC Berkeley studying Software Engineering and Li
 can be read here: [Final Paper on Loanword adaptation of Muslim Chinese words into Turfan Uyghur based on data from PhD disseration Yakup (2005)](https://github.com/user-attachments/files/18091046/Final.Paper-4.pdf) - which was reviewed by [Kevin Schäfer](https://www.linguistics.ucsb.edu/people/kevin-schäfer) PhD at UCSB. 
 
 In 2024, I transferred to UC Santa Barbara, where I am currently continuing studies in Statistics & Data Science and Mathematics.
+![UCSB](https://github.com/user-attachments/assets/caf93afc-d3fa-4406-a3ac-9bded53ad115)
 
+
+
+Outside of University, I am located in Palo Alto, CA:
+<img width="1234" alt="paloaltomap" src="https://github.com/user-attachments/assets/88c705c1-6171-4371-9ffc-d89efdf10b78" />
 
 
 

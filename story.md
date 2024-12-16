@@ -4,6 +4,7 @@ title: "Last 5 years"
 ---
 
 I attended [Elizabeth Von Thadden](https://en.wikipedia.org/wiki/Elisabeth_von_Thadden) Gymnasium, a faith based school focusing on science and ethics, in Heidelberg, Germany.
+
 <img src="https://github.com/user-attachments/assets/31aa033d-5a76-40aa-afbd-e7d55deb08fd" alt="Thadden" style="width: 250px; height: auto;" />
 
 

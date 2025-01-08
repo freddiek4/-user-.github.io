@@ -23,6 +23,6 @@ Reach out to me via email: [freddiekiessling@gmail.com](freddiekiessling@gmail.c
 
 ## More on me
 
-My reddit account: [Reddit](https://www.reddit.com/user/Frederick_kiessling/) - documentation of my C++ knowledge: I give weekly updates on problems I have solved using C++ and advice for fellow programmers working under Professor Ananad, in his C++ course series.
+My reddit account: [Reddit](https://www.reddit.com/user/Frederick_kiessling/) - documentation of my C++ knowledge: I give weekly updates on problems I have solved using C++ and advice for fellow programmers working under Professor Anand, in his C++ course series.
 
 [What I have been up to the last 5+ years](story.md) 

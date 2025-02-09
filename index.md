@@ -8,14 +8,17 @@ description: "A customized site using the Minimal theme"
 
 
 ## About Me
-I am an undergraduate student at the University of California, Santa Barbara studying Statistics & Data Science and Mathematics.
+I am an undergraduate student at the University of California, Santa Barbara studying Statistics & Data Science and Applied Mathematics.
+
+2025: I have started working in the NIH funded [Bionic Vision](https://bionicvisionlab.org) Laboratory under the Computer Science Department at UCSB. My work is under [Dr. Schneider](https://schneidermarius.github.io) and [Yuchen Hou](https://www.linkedin.com/in/yuchen-hou-b95083205/). My work will include applications of Convolutional Neural Networks (CNNs) and Recurrent Neural Networks (RNNs). 
 
 2023-2024: I worked for Siemens Technology under their Building X AI Division & Siemens Infrastructure RSS, under Product Head [Donal O'Farrell](https://www.linkedin.com/in/donal-ofarrell/), Senior Data Engineer [Qinpeng Wang Ph.D](https://www.linkedin.com/in/qinpeng-wang-ph-d-a7a60850/), and was mentored by Senior Engineering Manager [Travis Wayne](https://www.linkedin.com/in/traviswayne/).
 
 2020: I worked for eDataConsulting as a Software Engineer Intern under [Stephan Lochner](https://www.linkedin.com/in/stephan-lochner/), receiving mentorship from [Dylan Herbig](https://www.linkedin.com/in/dylan-herbig/) and [Benjamin Tschiggfrey](https://www.linkedin.com/in/benjamin-tschiggfrey-a4b861158/).
 
 ## Courses (most interesting)
-- [Graduate Course: CS 292: Graph ML & Representation Learning](https://github.com/freddiek4/F2024_Statisitcal_Compute_UCSB/tree/main/CS_292_Graph_Representation_Learning)
+- [Graduate Course: Statistics 277: Advanced Time Series Analysis]()
+- [Graduate Course: Computer Science 292: Graph ML & Representation Learning](https://github.com/freddiek4/F2024_Statisitcal_Compute_UCSB/tree/main/CS_292_Graph_Representation_Learning)
 - [CS 190N: Machine Learning for Networking](cs190n.md)
 
 ## Contact

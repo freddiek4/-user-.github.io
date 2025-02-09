@@ -17,7 +17,7 @@ I am an undergraduate student at the University of California, Santa Barbara stu
 2020: I worked for eDataConsulting as a Software Engineer Intern under [Stephan Lochner](https://www.linkedin.com/in/stephan-lochner/), receiving mentorship from [Dylan Herbig](https://www.linkedin.com/in/dylan-herbig/) and [Benjamin Tschiggfrey](https://www.linkedin.com/in/benjamin-tschiggfrey-a4b861158/).
 
 ## Courses (most interesting)
-- [Graduate Course: Statistics 277: Advanced Time Series Analysis]()
+- [Graduate Course: Statistics 277: Advanced Time Series Analysis](https://github.com/freddiek4/-user-.github.io/blob/main/Stat_277.md)
 - [Graduate Course: Computer Science 292: Graph ML & Representation Learning](https://github.com/freddiek4/F2024_Statisitcal_Compute_UCSB/tree/main/CS_292_Graph_Representation_Learning)
 - [CS 190N: Machine Learning for Networking](cs190n.md)
 

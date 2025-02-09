@@ -1,0 +1,3 @@
+Working on Multivariate time series models, cointegration models, multivariate stochastic volatility models, multivariate timeseries regression models, quantile time series models and non-linear time series models. Mathematical treatment ofspecification, estimation and forecasting as well asapplications in R.
+
+Course is taught by [Professor Gareth Peters](https://en.wikipedia.org/wiki/Gareth_W._Peters) who has published extensively in the fields of Blockchain, Cryptocurrency, Bayesian Inference, and Monte Carlo methods. [Professor PetersGoogle Scholar](https://scholar.google.co.jp/citations?user=lsb_nJoAAAAJ&hl=en)

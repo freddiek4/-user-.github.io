@@ -12,3 +12,9 @@ nav ul li {
   display: inline;
   margin-right: 10px;
 }
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: black; /* Set background to black */
+    color: white;            /* Set text color to white for contrast */
+}

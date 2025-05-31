@@ -18,7 +18,10 @@ I am an undergraduate student at the University of California, Santa Barbara stu
 
 ## Courses (most interesting)
 - [Graduate Course: Statistics 277: Advanced Time Series Analysis](Stat_277.md)
-- [Graduate Course: Computer Science 292: Graph ML & Representation Learning](https://github.com/freddiek4/F2024_Statisitcal_Compute_UCSB/tree/main/CS_292_Graph_Representation_Learning)
+- [Graduate Course: Statistics 232: Computational Techniques in Statistics](Stats_232.md)
+- [Graduate Course: Statistics 220C: Advanced Statistical Methods](Stat_220C.md)
+- [Graduate Course: Statistics 174: Time Series Analysis](Stat_174.md)
+- [Graduate Course (Audit): Computer Science 292: Graph ML & Representation Learning](https://github.com/freddiek4/F2024_Statisitcal_Compute_UCSB/tree/main/CS_292_Graph_Representation_Learning)
 - [CS 190N: Machine Learning for Networking](cs190n.md)
 
 ## Contact

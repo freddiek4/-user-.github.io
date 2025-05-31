@@ -11,6 +11,7 @@ Optimization theory and algorithms
 – Warm-start
 • the EM algorithm
 • Monte Carlo theory and MCMC
+
 This course dove into both the practical and the theoretical aspects of these techniques.
 
 

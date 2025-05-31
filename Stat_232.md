@@ -14,4 +14,6 @@ Optimization theory and algorithms
 This course dove into both the practical and the theoretical aspects of these techniques.
 
 
+Course is taught by [Professor Guo Yu](https://hugogogo.github.io) [via Google Scholar](https://scholar.google.com/citations?user=ALKFIpAAAAAJ&hl=en)
+
 

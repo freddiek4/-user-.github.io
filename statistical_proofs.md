@@ -22,6 +22,10 @@ $$
 $$
 
 $$
+= \mathbb{E}_\theta\left[ (\hat{\theta} - \mathbb{E}_\theta[\hat{\theta}])^2 \right] + 2(\mathbb{E}_\theta[\hat{\theta}] - \theta) \cdot 0 + (\mathbb{E}_\theta[\hat{\theta}] - \theta)^2
+$$
+
+$$
 = \text{Var}_\theta(\hat{\theta}) + 0 + \text{Bias}_\theta(\hat{\theta}, \theta)^2
 $$
 

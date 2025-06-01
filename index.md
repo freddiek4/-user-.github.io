@@ -35,4 +35,4 @@ My reddit account: [Reddit](https://www.reddit.com/user/Frederick_kiessling/) - 
 
 
 
-[Statistical Proofs - 100 most elegant statistical proofs/concepts](statistical_proofs.md)
+[Statistical Proofs - interesting statistical proofs/concepts](statistical_proofs.md)

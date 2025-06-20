@@ -12,4 +12,4 @@ The course is taught by [Professor Raya Feldman](https://www.pstat.ucsb.edu/peop
 ## Final Report
 
 You can view my PSTAT 174 Final Project report below:  
-<embed src="https://freddiek4.github.io/-user-.github.io/pstat-174-report.pdf" type="application/pdf" width="100%" height="600px" />
+<embed src="https://freddiek4.github.io/-user-.github.io/Frederick%20Kiessling%20-%20PSTAT%20174%20final%20project.pdf" type="application/pdf" width="100%" height="600px" />

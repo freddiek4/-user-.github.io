@@ -4,7 +4,7 @@ title: "Welcome to My GitHub Pages Site"
 description: "A customized site using the Minimal theme"
 ---
 <img src="https://github.com/user-attachments/assets/d77eac74-6981-4dec-ae9f-01adca8e3277" alt="pic" style="width: 250px; height: auto;">
-
+<img src="https://github.com/user-attachments/assets/fa9974a7-3ec1-4615-96ce-634fc3eb8cb6" alt="Screenshot 2025-07-15 at 8:28 PM" style="width: 250px; height: auto;">
 
 
 ## About Me

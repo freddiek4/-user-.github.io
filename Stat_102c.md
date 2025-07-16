@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Monte Carlo Methods and Simulations"
+---
+
+
 Markov chain Monte Carlo (MCMC) algorithms for scientific computing. Generation of random numbers from specific distribution. Rejection sampling and importance sampling and their roles in MCMC. Markov chain theory and convergence properties. Metropolis and Gibbs sampling algorithms. Extensions as simulated tempering. Theoretical understanding of methods and their implementation in concrete computational problems. 
 
 

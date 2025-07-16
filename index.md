@@ -11,7 +11,7 @@ description: "A customized site using the Minimal theme"
 I am an undergraduate student at the University of California, Santa Barbara studying Statistics & Data Science and Applied Mathematics.
 
 
-2025: I am currently a Data Engineering Intern at [BuildOps](https://www.linkedin.com/company/buildops/posts/?feedView=all), a unicorn-stage startup in Los Angeles [TechCrunch Article here](https://techcrunch.com/2025/03/21/commercial-services-platform-buildops-becomes-a-unicorn-raises-127m/). I am mentored by [Arjun Karande](https://www.linkedin.com/in/arjun-karande-a022011/) (Tech Executive in Data System Engineering), [Krish Patel](https://www.linkedin.com/in/krish-patel-75903379/) (Director of Engineering) and [Mike Campbell](https://www.linkedin.com/in/michael-campbell-194746a6/) (Director of Software Engineering). I have rotated through the [AI Development](https://www.buildops.com/), [Data Onboarding/Systems](https://www.buildops.com/), and [Analytics Engineering](https://www.buildops.com/) teams focusing on software and data engineering.
+2025: I am currently a Data Engineering Intern at [BuildOps](https://www.linkedin.com/company/buildops/posts/?feedView=all), a unicorn-stage startup in Los Angeles [TechCrunch Article here](https://techcrunch.com/2025/03/21/commercial-services-platform-buildops-becomes-a-unicorn-raises-127m/) . I am mentored by [Arjun Karande](https://www.linkedin.com/in/arjun-karande-a022011/) (Tech Executive in Data System Engineering), [Krish Patel](https://www.linkedin.com/in/krish-patel-75903379/) (Director of Engineering) and [Mike Campbell](https://www.linkedin.com/in/michael-campbell-194746a6/) (Director of Software Engineering). I have rotated through the [AI Development](https://www.buildops.com/), [Data Onboarding/Systems](https://www.buildops.com/), and [Analytics Engineering](https://www.buildops.com/) teams focusing on software and data engineering.
 
 
 
@@ -26,6 +26,7 @@ I am an undergraduate student at the University of California, Santa Barbara stu
 - [Graduate Course: Statistics 232: Computational Techniques in Statistics](Stats_232.md)
 - [Graduate Course: Statistics 220C: Advanced Statistical Methods](Stat_220C.md)
 - [Graduate Course: Statistics 174: Time Series Analysis](Stat_174.md)
+- [UCLA: Monte Carlo Methods & Simulation](Stat_102c.md)
 - [Graduate Course (Audit): Computer Science 292: Graph ML & Representation Learning](https://github.com/freddiek4/F2024_Statisitcal_Compute_UCSB/tree/main/CS_292_Graph_Representation_Learning)
 - [CS 190N: Machine Learning for Networking](cs190n.md)
 

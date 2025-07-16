@@ -35,7 +35,6 @@ In-progress (MA in Statistics, Emphasis on Data Science)
 - [Graduate Electrical Computer Engineering: Matrix Theory](ECE_210.md)
 - [Graduate Electrical Computer Engineerin: Deep Learning](ECE_180.md)
 - [Graduate Course: Statistics 237: Uncertainty Quantification](Stat_237.md)
-
 - [Graduate Course: Statistics 262: Research Seminar Statistics](Stat_262A.md)
 - [Graduate Course: Statistics 262: Research Seminar - Time Series Analysis](Stat_262B.md)
 - [Graduate Course: Statistics 262: Research Seminar - Statistics](Stat_262C.md)

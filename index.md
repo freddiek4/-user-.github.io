@@ -11,7 +11,7 @@ description: "A customized site using the Minimal theme"
 I am an undergraduate student at the University of California, Santa Barbara studying Statistics & Data Science and Applied Mathematics.
 
 
-2025: I am currently a Data Engineering Intern at [BuildOps](https://www.linkedin.com/company/buildops/posts/?feedView=all), a unicorn-stage startup in Los Angeles [[TechCrunch article here:](https://techcrunch.com/2025/03/21/commercial-services-platform-buildops-becomes-a-unicorn-raises-127m/). I am mentored by [Krish Patel](https://www.linkedin.com/in/krish-patel-75903379/) (Director of Engineering) and [Mike Campbell](https://www.linkedin.com/in/michael-campbell-194746a6/) (Director of Software Engineering). I have rotated through the [AI Development](https://www.buildops.com/), [Data Onboarding/Systems](https://www.buildops.com/), and [Analytics Engineering](https://www.buildops.com/) teams.
+2025: I am currently a Data Engineering Intern at [BuildOps](https://www.linkedin.com/company/buildops/posts/?feedView=all), a unicorn-stage startup in Los Angeles [[TechCrunch article here:](https://techcrunch.com/2025/03/21/commercial-services-platform-buildops-becomes-a-unicorn-raises-127m/). I am mentored by [Arjun Karande](https://www.linkedin.com/in/arjun-karande-a022011/) (Tech Executive in Data System Engineering), [Krish Patel](https://www.linkedin.com/in/krish-patel-75903379/) (Director of Engineering) and [Mike Campbell](https://www.linkedin.com/in/michael-campbell-194746a6/) (Director of Software Engineering). I have rotated through the [AI Development](https://www.buildops.com/), [Data Onboarding/Systems](https://www.buildops.com/), and [Analytics Engineering](https://www.buildops.com/) teams.
 
 
 

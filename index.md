@@ -10,6 +10,11 @@ description: "A customized site using the Minimal theme"
 ## About Me
 I am an undergraduate student at the University of California, Santa Barbara studying Statistics & Data Science and Applied Mathematics.
 
+
+2025: I am currently a Data Engineering Intern at [BuildOps](https://techcrunch.com/2025/03/21/commercial-services-platform-buildops-becomes-a-unicorn-raises-127m/), a unicorn-stage startup in Los Angeles. I am mentored by [Krish Patel](https://www.linkedin.com/in/krish-patel-75903379/) (Director of Engineering) and [Mike Campbell](https://www.linkedin.com/in/michael-campbell-194746a6/) (Director of Software Engineering). I have rotated through the [AI Development](https://www.buildops.com/), [Data Onboarding/Systems](https://www.buildops.com/), and [Analytics Engineering](https://www.buildops.com/) teams.
+
+
+
 2025: I have started working in the NIH funded [Bionic Vision](https://bionicvisionlab.org) Laboratory under the Computer Science Department at UCSB. My work is under [Dr. Schneider](https://schneidermarius.github.io) and [Yuchen Hou](https://www.linkedin.com/in/yuchen-hou-b95083205/). My work will include applications of Convolutional Neural Networks (CNNs) and Recurrent Neural Networks (RNNs). 
 
 2023-2024: I worked for Siemens Technology under their Building X AI Division & Siemens Infrastructure RSS, under Product Head [Donal O'Farrell](https://www.linkedin.com/in/donal-ofarrell/), Senior Data Engineer [Qinpeng Wang Ph.D](https://www.linkedin.com/in/qinpeng-wang-ph-d-a7a60850/), and was mentored by Senior Engineering Manager [Travis Wayne](https://www.linkedin.com/in/traviswayne/).

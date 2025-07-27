@@ -6,4 +6,5 @@ Final Presentation on Soybean Crush Spread Time Series Modelling Analysis
 
 
 Youtube presentation screenshot:
-<img width="1798" height="988" alt="test 2025-07-27 at 1 08 10" src="https://github.com/user-attachments/assets/6b6d303b-c116-4a0e-910b-70f9b2a15013" />
+
+<img src="https://github.com/user-attachments/assets/6b6d303b-c116-4a0e-910b-70f9b2a15013" alt="test 2025-07-27 at 1 08 10" style="width: 500px; height: auto;">

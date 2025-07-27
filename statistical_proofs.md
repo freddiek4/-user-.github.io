@@ -71,6 +71,21 @@ $$
 **Interpretation:**  
 Monte Carlo Importance sampling reweights samples drawn from one distribution to estimate expectations under another.
 
+$$
+\text{Example:} \quad \text{Suppose average income in Germany is } \mathbb{E}_p[x], \text{ and we sample from the U.S. } q(x).
+$$
+
+$$
+\text{Let } X_1 = 30,\ X_2 = 50,\ X_3 = 70 \text{ (in thousands, sampled from U.S.), and weights } \frac{p(X_i)}{q(X_i)} = 1.5,\ 0.8,\ 0.6.
+$$
+
+$$
+\hat{\mu}_{\text{Germany}} = \frac{1}{3} \left(30 \cdot 1.5 + 50 \cdot 0.8 + 70 \cdot 0.6\right) = \frac{1}{3} (45 + 40 + 42) = \frac{127}{3} \approx 42.33
+$$
+
+$$
+\text{We adjust each U.S. sample by how likely it is under Germany’s distribution to approximate Germany’s mean income.}
+$$
 
 
 
